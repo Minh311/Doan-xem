@@ -1,18 +1,15 @@
 const CONFIG = {
-    introTitle: 'Mai Anh à !',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Ê Hà ơi !',
+    introDesc: `Ấn vào t bảo`,
     btnIntro: 'hihi',
-    title: 'Em yêu anh có phải không nào 😙',
-    desc: ' Trả lời anh thật lòng nhé !',
-    btnYes: 'Yêu ơi là yêuuu <33',
-    btnNo: 'Anh mơ à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 6h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'Đi đạp xe lên HN k nào ^^',
+    desc: ' Chỉ hơn 50km thôi :vvv !',
+    btnYes: 'Có chứ, háo hức lắm',
+    btnNo: 'Khồng, gãy chân đấy :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại đạp xe với tớ?',
+    btnReply: 'Send',
+    reply: 'Mình thích thì mình đạp thôi',
+    mess: 'Tớ biết mà, mai 6h gặp nhau trc cửa nhé :vvvv',
+    messDesc: 'Đừng cho tớ leo cây đấy',
+    btnAccept: 'Okiiiii lun',
 }
